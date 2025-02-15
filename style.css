@@ -1,4 +1,4 @@
-
+/* Grundlegende Stile */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -24,7 +24,7 @@ header p {
     font-size: 1.2em;
 }
 
-
+/* Galerie-Stile */
 .gallery {
     display: flex;
     flex-wrap: wrap;
@@ -51,7 +51,7 @@ header p {
     transform: scale(1.1);
 }
 
-
+/* Overlay-Effekt */
 .overlay {
     position: absolute;
     top: 0;
@@ -82,7 +82,7 @@ header p {
     font-size: 1em;
 }
 
-
+/* Footer-Stile */
 footer {
     text-align: center;
     padding: 20px;
